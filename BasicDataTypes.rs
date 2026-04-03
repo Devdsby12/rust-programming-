@@ -12,5 +12,5 @@ fn main(){
 
     println!("{}",mutableExampleOfString) ;
     
-    const Name : i8 = 9 ; // must type type of variable with const else error
+    const NAMEorName : i8 = 9 ; // must type type of variable with const else error
 }
